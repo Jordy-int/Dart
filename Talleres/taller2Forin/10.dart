@@ -5,7 +5,7 @@ void main(List<String> args) {
   var clientesPreferentes = Map<String, Map<String, String>>();
   int opciones = 0;
   bool esPreferente = true;
-
+  
   do {
     print(
         "acciones: \n 1 = añadir Cliente \n 2 = Eliminar Cliente \n 3 = Mostrar Cliente \n 4 = Listar todos los clientes \n 5 = Listar clientes preferentes \n 6 = Terminar \n ");

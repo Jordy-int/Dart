@@ -7,6 +7,9 @@ void main(List<String> args) {
   double cantidadDebe = 0;
   var facturas = Map<String, double>();
 
+  
+
+
   do {
     print(
         "acciones: \n 1 = nueva factura \n 2 = pagar Existente \n 3 = terminar ");
